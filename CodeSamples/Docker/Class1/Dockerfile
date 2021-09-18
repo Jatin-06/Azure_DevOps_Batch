@@ -6,3 +6,5 @@ ADD --chmod=777 https://raw.githubusercontent.com/devopsinsiders/azure-devsecops
 
 RUN rm /usr/share/nginx/html/index.html
 
+
+
